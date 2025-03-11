@@ -2,3 +2,6 @@
 
 ## Code Release
 Our code will be released publicly soon!!! Stay tuned for updates and detailed documentation on how to use our method!!!
+
+## Contact
+For any inquiries or feedback, please contact aulfd@mail.scut.edu.cn.
